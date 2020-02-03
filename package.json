@@ -1,0 +1,25 @@
+{
+  "name": "study-data-structure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --config webpack.config.dev.js --hot --inline"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoyogis/study-data-structure.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoyogis/study-data-structure/issues"
+  },
+  "homepage": "https://github.com/yoyogis/study-data-structure#readme",
+  "devDependencies": {
+    "typescript": "^3.6.4",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.9.0"
+  }
+}
